@@ -3,7 +3,7 @@
 This program uses Flask to allow users to access a webpage that saves movie titles and other information about the movie to a database. On the homepage, users can see how many movies are saved into the database.
 
 ## App Routes
-### /movie/new/<title>/<director>/<genre>/
+### /movie/new/title/director/genre/
 This route allows users to input the title of the movie, the director of that movie, and its genre into the search field. When all of this information is input the movie and its information is added to the database.
 
 ### /all_movies/
